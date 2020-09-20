@@ -1,0 +1,8 @@
+git clone (untuk membuat pertama kali)
+cd NamaFolder (Untuk masuk ke folder tsb)
+git pull (untuk menarik updatean)
+cat namaFile (untuk menampilkan isi file)
+git status (Cek apakah ada file yg blm pernah dikirim ke github di folder tsb)
+
+git add namafile (untuk upload file ke github tp masih di staging local harus di commit utk transfer ke github)
+git commit -m "description"
